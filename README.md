@@ -5,7 +5,7 @@
 
 :man_dancing::video_game::clapper::men_wrestling::canoe: :game_die::leaves::ocean:
 
-- 👀 I’m interested in ... AI | Capital Markets | Equity | Ethics | Education | Interoperability | Optimization | Risk Mgmt | Social Welfare | XR 
-- 🌱 I’m currently learning ... Crypto | Interoperability | dApps | DeFi | NFTs | Cycling 
-- 💞️ I’m looking to collaborate on ... Working toward a more intentional and inclusive tomorrow ~ Let's free people from concern, bank the unbanked, and build accessibilty. 
+- 👀 I’m interested in AI | Capital Markets | Equity | Ethics | Education | Interoperability | Optimization | Risk Mgmt | Social Welfare | XR 
+- 🌱 I’m currently learning Crypto | Interoperability | dApps | DeFi | NFTs | Cycling 
+- 💞️ I’m looking to collaborate on Working toward a more intentional and inclusive tomorrow ~ Let's free people from concern, bank the unbanked, and build accessibilty. 
 - 📫 How to reach me ... https://twitter.com/DrOBGYN_
